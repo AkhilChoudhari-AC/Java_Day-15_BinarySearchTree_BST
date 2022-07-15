@@ -8,8 +8,6 @@ class Node {
 }
 
 public class BinaryTree {
-
-
     /*
      * 1. checking conditions by taking if else statement check first condition- if
      * root is null then it will return to createnewNode and insert the new value
@@ -38,13 +36,7 @@ public class BinaryTree {
         return root;
 
     }
-
-    /**
-     * create a method name as createNewNode and passing parameter k in int type
-     *
-     * @param k-data to be assigned to k parameter
-     * @return
-     */
+    git
     public Node craeteNewNode(int k) {
         Node bst = new Node();
         bst.data = k;

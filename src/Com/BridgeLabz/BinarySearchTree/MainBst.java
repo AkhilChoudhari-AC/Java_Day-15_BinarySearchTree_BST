@@ -25,11 +25,9 @@ public class MainBst {
         root = bst.insert(root, 6);
         root = bst.insert(root, 63);
         root = bst.insert(root, 67);
-
         /*
          * 3.here printing the root values
          */
         bst.print(root);
-
     }
 }
